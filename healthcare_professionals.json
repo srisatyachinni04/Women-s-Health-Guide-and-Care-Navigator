@@ -1,0 +1,35 @@
+{
+  "menstrual_health": [
+    "Gynecologist",
+    "General Physician"
+  ],
+  "pcos": [
+    "Gynecologist",
+    "Endocrinologist",
+    "General Physician"
+  ],
+  "thyroid": [
+    "General Physician",
+    "Endocrinologist"
+  ],
+  "pregnancy": [
+    "Obstetric Healthcare Professional"
+  ],
+  "postpartum": [
+    "Gynecologist",
+    "General Physician",
+    "Mental Health Professional"
+  ],
+  "menopause": [
+    "Gynecologist",
+    "General Physician"
+  ],
+  "reproductive": [
+    "Gynecologist",
+    "Qualified Healthcare Professional"
+  ],
+  "mental_wellbeing": [
+    "Mental Health Professional",
+    "General Physician"
+  ]
+}
