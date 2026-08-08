@@ -1,0 +1,42 @@
+{
+  "menstrual_health": {
+    "name": "Menstrual Health",
+    "description": "General education about periods, cycle changes, cramps, bleeding and related concerns.",
+    "professionals": ["Gynecologist", "General Physician"]
+  },
+  "pcos": {
+    "name": "PCOS / Hormonal Health",
+    "description": "General education about irregular periods and hormonal health concerns.",
+    "professionals": ["Gynecologist", "Endocrinologist"]
+  },
+  "thyroid": {
+    "name": "Thyroid-related Concerns",
+    "description": "General education about thyroid-related symptoms and questions.",
+    "professionals": ["General Physician", "Endocrinologist"]
+  },
+  "pregnancy": {
+    "name": "Pregnancy",
+    "description": "General pregnancy health education and safety navigation.",
+    "professionals": ["Obstetric Healthcare Professional"]
+  },
+  "postpartum": {
+    "name": "Postpartum Wellbeing",
+    "description": "Physical and emotional wellbeing after childbirth.",
+    "professionals": ["Gynecologist", "General Physician"]
+  },
+  "menopause": {
+    "name": "Menopause",
+    "description": "General education about menopause-related changes.",
+    "professionals": ["Gynecologist", "General Physician"]
+  },
+  "reproductive": {
+    "name": "Sexual and Reproductive Health",
+    "description": "Respectful general education about reproductive health.",
+    "professionals": ["Gynecologist", "Healthcare Professional"]
+  },
+  "mental_wellbeing": {
+    "name": "Mental Wellbeing",
+    "description": "General information about stress, anxiety, mood and emotional wellbeing.",
+    "professionals": ["Mental Health Professional", "General Physician"]
+  }
+}
