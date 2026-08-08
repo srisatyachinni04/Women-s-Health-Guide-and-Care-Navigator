@@ -1,0 +1,45 @@
+{
+  "languages": {
+    "en": "English",
+    "te": "Telugu",
+    "hi": "Hindi"
+  },
+  "labels": {
+    "en": {
+      "health_concern": "Health Concern",
+      "simple_explanation": "Simple Explanation",
+      "safety_check": "Safety Check",
+      "next_step": "Recommended Next Step",
+      "professional": "Who You Could Talk To",
+      "questions": "Questions to Ask",
+      "summary": "Doctor Visit Summary",
+      "tracking": "Symptom Tracking",
+      "privacy": "Privacy & Safety",
+      "myths": "Myth vs Fact"
+    },
+    "te": {
+      "health_concern": "ఆరోగ్య సమస్య",
+      "simple_explanation": "సులభమైన వివరణ",
+      "safety_check": "భద్రతా తనిఖీ",
+      "next_step": "తదుపరి సూచన",
+      "professional": "ఎవరిని సంప్రదించవచ్చు",
+      "questions": "అడగాల్సిన ప్రశ్నలు",
+      "summary": "డాక్టర్ సందర్శన సారాంశం",
+      "tracking": "లక్షణాల ట్రాకింగ్",
+      "privacy": "గోప్యత & భద్రత",
+      "myths": "అపోహ vs వాస్తవం"
+    },
+    "hi": {
+      "health_concern": "स्वास्थ्य संबंधी चिंता",
+      "simple_explanation": "सरल विवरण",
+      "safety_check": "सुरक्षा जांच",
+      "next_step": "अगला कदम",
+      "professional": "किससे संपर्क करें",
+      "questions": "पूछने वाले प्रश्न",
+      "summary": "डॉक्टर विज़िट सारांश",
+      "tracking": "लक्षण ट्रैकिंग",
+      "privacy": "गोपनीयता और सुरक्षा",
+      "myths": "मिथक बनाम तथ्य"
+    }
+  }
+}
