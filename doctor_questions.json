@@ -1,0 +1,44 @@
+{
+  "menstrual_health": [
+    "What could be causing these symptoms?",
+    "What information should I track?",
+    "Would professional evaluation be appropriate?",
+    "What warning signs should I watch for?",
+    "When should I follow up?"
+  ],
+  "pcos": [
+    "What could be causing my irregular periods?",
+    "Could hormonal factors be involved?",
+    "What evaluation might be appropriate?",
+    "What symptoms should I monitor?",
+    "When should I follow up?"
+  ],
+  "thyroid": [
+    "Could my symptoms be related to thyroid function?",
+    "What other possible causes should be considered?",
+    "Would an evaluation be appropriate?",
+    "What symptoms should I monitor?",
+    "When should I follow up?"
+  ],
+  "pregnancy": [
+    "Is this symptom something I should discuss with my healthcare provider?",
+    "What warning signs should I watch for?",
+    "When should I seek urgent care?",
+    "What information should I bring to my appointment?",
+    "What should I monitor?"
+  ],
+  "menopause": [
+    "Are these changes commonly associated with menopause?",
+    "What other causes should be considered?",
+    "When should I seek professional evaluation?",
+    "What symptoms should I track?",
+    "What should I discuss during my appointment?"
+  ],
+  "mental_wellbeing": [
+    "Would speaking with a mental-health professional be helpful?",
+    "What information should I track?",
+    "What support options are available?",
+    "When should I seek urgent support?",
+    "What should I discuss with my healthcare professional?"
+  ]
+}
