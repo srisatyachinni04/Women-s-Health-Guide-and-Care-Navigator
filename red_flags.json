@@ -1,0 +1,19 @@
+{
+  "urgent_signs": [
+    "severe chest pain",
+    "difficulty breathing",
+    "heavy bleeding that will not stop",
+    "sudden severe abdominal pain",
+    "loss of consciousness",
+    "extreme confusion",
+    "severe headache with vision changes",
+    "face drooping",
+    "arm weakness",
+    "speech difficulty",
+    "severe pregnancy-related pain or bleeding",
+    "suicidal thoughts",
+    "mental health crisis"
+  ],
+  "action": "Seek urgent professional medical care.",
+  "message": "This may require urgent medical attention. Please contact appropriate emergency or healthcare services."
+}
