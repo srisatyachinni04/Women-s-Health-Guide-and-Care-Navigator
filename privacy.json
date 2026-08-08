@@ -1,0 +1,12 @@
+{
+  "title": "Privacy First",
+  "message": "Please do not enter your name, phone number, address, Aadhaar number, email address, medical record number or other identifying information.",
+  "rules": [
+    "Collect only information necessary for health navigation.",
+    "Do not request unnecessary personal information.",
+    "Do not repeat identifying information in generated summaries.",
+    "Clearly explain that the application is not a diagnostic tool.",
+    "Encourage users to consult qualified healthcare professionals."
+  ],
+  "disclaimer": "This AI provides health education and navigation, not diagnosis or treatment. It cannot replace a qualified healthcare professional."
+}
