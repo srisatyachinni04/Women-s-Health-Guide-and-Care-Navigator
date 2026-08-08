@@ -1,0 +1,36 @@
+{
+  "tracking_fields": [
+    "date",
+    "cycle_day",
+    "period",
+    "flow",
+    "pain_level",
+    "pain_type",
+    "pain_location",
+    "clots",
+    "headache",
+    "nausea",
+    "fatigue",
+    "mood_changes",
+    "bloating",
+    "sleep_quality",
+    "energy_level",
+    "notes"
+  ],
+  "flow_levels": [
+    "Light",
+    "Moderate",
+    "Heavy",
+    "Very Heavy"
+  ],
+  "pain_scale": "0-10",
+  "pain_types": [
+    "Cramping",
+    "Sharp",
+    "Dull ache",
+    "Stabbing",
+    "Constant",
+    "Comes and goes"
+  ],
+  "tracking_purpose": "Help users organize information they can discuss with a healthcare professional."
+}
